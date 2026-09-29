@@ -21,7 +21,7 @@ NSE,National Stock Exchange of India Limited,MAIN,2026-09-21,2026-09-20 17:46,Tr
 SONA,Sonaselection India Limited,MAIN,2026-09-21,2026-09-20 17:46,True,-3,SKIP,2.02,0.46,0.6,0.9,-3.35,0.9,1.29,150,2026-09-24,99.0,102.31,107.42,3.34,8.51,497.0,1263.0,77.5,385.0,PASS,RIGHT
 SPECTRAA,SpectraA Technology Solutions Limited,SME,2026-09-21,2026-09-20 17:46,True,3,WATCH,38.14,,,18.43,-3.35,18.43,,2400,2026-09-24,118.0,224.2,235.4,90.0,99.49,254880.0,281760.0,5.4,13764.0,PASS,MISSED
 AXIOMGAS,Axiom Gas Engineering Limited,SME,2026-09-22,2026-09-22 13:04,True,-3,SKIP,0.0,,,1.12,-3.81,1.37,,4000,2026-09-25,54.0,54.75,54.05,1.39,0.09,3000.0,200.0,73.0,2190.0,PASS,RIGHT
-VARMORA,Varmora Granito Limited,MAIN,2026-09-24,2026-09-24 13:10,True,-1,NO DATA,,0.22,0.29,0.45,-4.77,1.58,1.0,101,,,,,,,,,100.0,,NO CALL,not listed
+VARMORA,Varmora Granito Limited,MAIN,2026-09-24,2026-09-24 13:10,True,-1,NO DATA,,0.22,0.29,0.45,-4.77,1.58,1.0,101,2026-09-29,148.0,155.0,152.19,4.73,2.83,707.0,423.0,100.0,707.0,NO CALL,NO CALL
 ADROITIND,Adroit Industries (India) Limited,MAIN,2026-09-25,2026-09-25 13:11,True,3,NO DATA,,16.75,154.97,67.52,-4.91,176.85,99.81,111,,,,,,,,,1.0,,NO CALL,not listed
 ARMEE,ArMee Infotech Limited,MAIN,2026-09-25,2026-09-25 13:11,True,-1,NO DATA,,0.94,1.4,1.68,-4.91,2.44,2.47,40,,,,,,,,,40.5,,NO CALL,not listed
 COREIN,Coreintegra Consulting Services Limited,SME,2026-09-25,2026-09-25 13:11,True,-2,NO DATA,,,,1.05,-4.91,1.38,,3200,,,,,,,,,72.5,,NO CALL,not listed
@@ -30,13 +30,13 @@ POOJALOGIS,Pooja Logistics Limited,SME,2026-09-25,2026-09-25 13:11,True,-2,NO DA
 SWASTIKAIN,Swastika Infra Limited,MAIN,2026-09-25,2026-09-25 13:11,True,0,NO DATA,,1.05,6.14,3.16,-4.91,7.6,5.39,81,,,,,,,,,18.6,,NO CALL,not listed
 AONESTEELS,A-One Steels India Limited,MAIN,2026-09-28,2026-09-27 17:47,True,-2,SKIP,12.59,0.09,2.07,1.35,-4.91,11.6,8.64,37,,,,,,,,,11.6,,PASS,not listed
 MONEYVIEW,Moneyview Limited,MAIN,2026-09-28,2026-09-27 17:47,True,0,SKIP,41.18,0.25,15.41,6.01,-4.91,98.46,19.57,441,,,,,,,,,5.1,,PASS,not listed
-ACEVECTOR,AceVector Limited,MAIN,2026-09-29,2026-09-29 13:12,True,0,NO DATA,,1.5,2.49,1.98,-6.09,1.98,2.59,468,,,,,,,,,38.6,,NO CALL,not listed
-BMISL,Bench Mark Infotech Services Limited,SME,2026-09-29,2026-09-29 13:12,True,0,NO DATA,,,,21.03,-6.09,21.03,,2400,,,,,,,,,4.8,,NO CALL,not listed
-GERMAN,German Green Steel and Power Limited,MAIN,2026-09-29,2026-09-29 13:12,True,1,NO DATA,,1.99,25.18,13.17,-6.09,13.17,14.4,107,,,,,,,,,6.9,,NO CALL,not listed
-HIMALAYAN,Himalayan Solar Limited,SME,2026-09-29,2026-09-29 13:12,True,-2,NO DATA,,,,0.81,-6.09,0.81,,2400,,,,,,,,,100.0,,NO CALL,not listed
-ORIENTCABL,Orient Cables (India) Limited,MAIN,2026-09-29,2026-09-29 13:12,True,1,NO DATA,,9.38,55.32,23.99,-6.09,23.99,18.91,55,,,,,,,,,5.3,,NO CALL,not listed
-RUNWALENTR,Runwal Enterprises Limited,MAIN,2026-09-29,2026-09-29 13:12,True,0,NO DATA,,1.77,2.25,1.34,-6.09,1.34,0.72,49,,,,,,,,,100.0,,NO CALL,not listed
-SHAHINVEST,Shah Investor's Home Limited,MAIN,2026-09-30,2026-09-29 13:12,False,-1,NO DATA,,1.0,0.75,0.73,-6.09,0.73,0.57,85,,,,,,,,,100.0,,NO CALL,open
-SRIT,Srit India Limited,MAIN,2026-09-30,2026-09-29 13:12,False,-2,NO DATA,,0.01,2.81,2.65,-6.09,2.65,4.08,115,,,,,,,,,24.5,,NO CALL,open
-GREENASIA,Green Asia Impex Limited,SME,2026-10-01,2026-09-29 13:12,False,-2,NO DATA,,,,0.49,-6.09,0.49,,3200,,,,,,,,,100.0,,NO CALL,open
-PAPADMALJI,Papadmalji Agro Foods Limited,SME,2026-10-01,2026-09-29 13:12,False,-2,NO DATA,,,,0.47,-6.09,0.47,,3200,,,,,,,,,100.0,,NO CALL,open
+ACEVECTOR,AceVector Limited,MAIN,2026-09-29,2026-09-29 13:12,True,0,NO DATA,,1.5,2.49,1.98,-6.09,4.93,4.62,468,,,,,,,,,21.6,,NO CALL,not listed
+BMISL,Bench Mark Infotech Services Limited,SME,2026-09-29,2026-09-29 13:12,True,0,NO DATA,,,,21.03,-6.09,95.97,,2400,,,,,,,,,1.0,,NO CALL,not listed
+GERMAN,German Green Steel and Power Limited,MAIN,2026-09-29,2026-09-29 13:12,True,1,NO DATA,,1.99,25.18,13.17,-6.09,28.98,22.83,107,,,,,,,,,4.4,,NO CALL,not listed
+HIMALAYAN,Himalayan Solar Limited,SME,2026-09-29,2026-09-29 13:12,True,-2,NO DATA,,,,0.81,-6.09,1.18,,2400,,,,,,,,,84.7,,NO CALL,not listed
+ORIENTCABL,Orient Cables (India) Limited,MAIN,2026-09-29,2026-09-29 13:12,True,1,NO DATA,,9.38,55.32,23.99,-6.09,92.27,30.55,55,,,,,,,,,3.3,,NO CALL,not listed
+RUNWALENTR,Runwal Enterprises Limited,MAIN,2026-09-29,2026-09-29 13:12,True,0,NO DATA,,1.77,2.25,1.34,-6.09,2.5,1.12,49,,,,,,,,,89.3,,NO CALL,not listed
+SHAHINVEST,Shah Investor's Home Limited,MAIN,2026-09-30,2026-09-29 17:47,False,-1,SKIP,7.78,1.08,1.59,1.1,-6.04,1.1,0.9,85,,,,,,,,,100.0,,PASS,open
+SRIT,Srit India Limited,MAIN,2026-09-30,2026-09-29 17:47,False,-1,SKIP,15.38,0.03,5.25,4.16,-6.04,4.16,6.04,115,,,,,,,,,16.6,,PASS,open
+GREENASIA,Green Asia Impex Limited,SME,2026-10-01,2026-09-29 17:47,False,-3,SKIP,0.0,,,0.52,-6.04,0.52,,3200,,,,,,,,,100.0,,PASS,open
+PAPADMALJI,Papadmalji Agro Foods Limited,SME,2026-10-01,2026-09-29 17:47,False,-3,SKIP,0.0,,,1.33,-6.04,1.33,,3200,,,,,,,,,75.2,,PASS,open
