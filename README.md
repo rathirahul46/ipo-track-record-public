@@ -1,6 +1,6 @@
 # IPO listing-gain screen: track record
 
-_Updated automatically after every screener run; last update 2026-09-29 17:48 IST. A listing-gain screen, not investment advice._
+_Updated automatically after every screener run; last update 2026-09-30 13:12 IST. A listing-gain screen, not investment advice._
 
 ## Ledger (every screened issue)
 
@@ -43,7 +43,10 @@ _Updated automatically after every screener run; last update 2026-09-29 17:48 IS
 | HIMALAYAN | SME | 2026-09-29 | 2026-09-29 13:12 | -2 | NO DATA | - | - | - | 0.81 | -6.09 | - | - | - | - | 2400 | - | 84.7 | - | not listed |
 | ORIENTCABL | MAIN | 2026-09-29 | 2026-09-29 13:12 | 1 | NO DATA | - | 9.38 | 55.32 | 23.99 | -6.09 | - | - | - | - | 55 | - | 3.3 | - | not listed |
 | RUNWALENTR | MAIN | 2026-09-29 | 2026-09-29 13:12 | 0 | NO DATA | - | 1.77 | 2.25 | 1.34 | -6.09 | - | - | - | - | 49 | - | 89.3 | - | not listed |
-| SHAHINVEST | MAIN | 2026-09-30 | 2026-09-29 17:47 | -1 | SKIP | 7.78 | 1.08 | 1.59 | 1.1 | -6.04 | - | - | - | - | 85 | - | 100.0 | - | open |
-| SRIT | MAIN | 2026-09-30 | 2026-09-29 17:47 | -1 | SKIP | 15.38 | 0.03 | 5.25 | 4.16 | -6.04 | - | - | - | - | 115 | - | 16.6 | - | open |
-| GREENASIA | SME | 2026-10-01 | 2026-09-29 17:47 | -3 | SKIP | 0.0 | - | - | 0.52 | -6.04 | - | - | - | - | 3200 | - | 100.0 | - | open |
-| PAPADMALJI | SME | 2026-10-01 | 2026-09-29 17:47 | -3 | SKIP | 0.0 | - | - | 1.33 | -6.04 | - | - | - | - | 3200 | - | 75.2 | - | open |
+| SHAHINVEST | MAIN | 2026-09-30 | 2026-09-30 13:11 | 2 | WATCH | 8.988 | 4.61 | 23.78 | 9.68 | -5.35 | - | - | - | - | 85 | - | 15.3 | - | not listed |
+| SRIT | MAIN | 2026-09-30 | 2026-09-30 13:11 | 1 | SKIP | 23.85 | 0.77 | 116.43 | 39.69 | -5.35 | - | - | - | - | 115 | - | 3.4 | - | not listed |
+| GREENASIA | SME | 2026-10-01 | 2026-09-30 13:11 | -3 | SKIP | 0.0 | - | - | 0.55 | -5.35 | - | - | - | - | 3200 | - | 100.0 | - | open |
+| PAPADMALJI | SME | 2026-10-01 | 2026-09-30 13:11 | -3 | SKIP | 0.0 | - | - | 1.56 | -5.35 | - | - | - | - | 3200 | - | 64.1 | - | open |
+| EVENTIONS | SME | 2026-10-05 | 2026-09-30 13:11 | -3 | SKIP | 0.0 | - | - | 0.67 | -5.35 | - | - | - | - | 2400 | - | 100.0 | - | open |
+| NITYAS | MAIN | 2026-10-05 | 2026-09-30 13:11 | -2 | SKIP | 6.67 | 0.0 | 0.06 | 0.14 | -5.35 | - | - | - | - | 200 | - | 100.0 | - | open |
+| VNL | MAIN | 2026-10-05 | 2026-09-30 13:11 | -3 | SKIP | 2.73 | 0.0 | 0.0 | 0.03 | -5.35 | - | - | - | - | 68 | - | 100.0 | - | open |
