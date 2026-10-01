@@ -1,6 +1,6 @@
 # IPO listing-gain screen: track record
 
-_Updated automatically after every screener run; last update 2026-09-30 17:49 IST. A listing-gain screen, not investment advice._
+_Updated automatically after every screener run; last update 2026-10-01 13:12 IST. A listing-gain screen, not investment advice._
 
 ## Ledger (every screened issue)
 
@@ -45,8 +45,8 @@ _Updated automatically after every screener run; last update 2026-09-30 17:49 IS
 | RUNWALENTR | MAIN | 2026-09-29 | 2026-09-29 13:12 | 0 | NO DATA | - | 1.77 | 2.25 | 1.34 | -6.09 | - | - | - | - | 49 | - | 89.3 | - | not listed |
 | SHAHINVEST | MAIN | 2026-09-30 | 2026-09-30 13:11 | 2 | WATCH | 8.988 | 4.61 | 23.78 | 9.68 | -5.35 | - | - | - | - | 85 | - | 5.2 | - | not listed |
 | SRIT | MAIN | 2026-09-30 | 2026-09-30 13:11 | 1 | SKIP | 23.85 | 0.77 | 116.43 | 39.69 | -5.35 | - | - | - | - | 115 | - | 1.6 | - | not listed |
-| GREENASIA | SME | 2026-10-01 | 2026-09-30 17:47 | -3 | SKIP | 0.0 | - | - | 0.64 | -6.06 | - | - | - | - | 3200 | - | 100.0 | - | open |
-| PAPADMALJI | SME | 2026-10-01 | 2026-09-30 17:47 | -3 | SKIP | 0.0 | - | - | 1.66 | -6.06 | - | - | - | - | 3200 | - | 60.2 | - | open |
-| EVENTIONS | SME | 2026-10-05 | 2026-09-30 17:47 | -3 | SKIP | 0.0 | - | - | 1.06 | -6.06 | - | - | - | - | 2400 | - | 94.3 | - | open |
-| NITYAS | MAIN | 2026-10-05 | 2026-09-30 17:47 | -2 | SKIP | 6.67 | 0.0 | 0.11 | 0.2 | -6.06 | - | - | - | - | 200 | - | 100.0 | - | open |
-| VNL | MAIN | 2026-10-05 | 2026-09-30 17:47 | -3 | SKIP | 2.73 | 0.96 | 0.01 | 0.05 | -6.06 | - | - | - | - | 68 | - | 100.0 | - | open |
+| GREENASIA | SME | 2026-10-01 | 2026-10-01 13:11 | -3 | SKIP | 0.0 | - | - | 0.89 | -6.98 | - | - | - | - | 3200 | - | 100.0 | - | not listed |
+| PAPADMALJI | SME | 2026-10-01 | 2026-10-01 13:11 | -2 | SKIP | 0.0 | - | - | 2.09 | -6.98 | - | - | - | - | 3200 | - | 47.8 | - | not listed |
+| EVENTIONS | SME | 2026-10-05 | 2026-10-01 13:11 | -3 | SKIP | 0.0 | - | - | 1.22 | -6.98 | - | - | - | - | 2400 | - | 82.0 | - | open |
+| NITYAS | MAIN | 2026-10-05 | 2026-10-01 13:11 | -2 | SKIP | 6.67 | 0.0 | 0.2 | 0.4 | -6.98 | - | - | - | - | 200 | - | 95.2 | - | open |
+| VNL | MAIN | 2026-10-05 | 2026-10-01 13:11 | -1 | SKIP | 15.91 | 0.96 | 0.63 | 0.4 | -6.98 | - | - | - | - | 68 | - | 100.0 | - | open |
