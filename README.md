@@ -1,6 +1,6 @@
 # IPO listing-gain screen: track record
 
-_Updated automatically after every screener run; last update 2026-10-01 13:12 IST. A listing-gain screen, not investment advice._
+_Updated automatically after every screener run; last update 2026-10-01 17:48 IST. A listing-gain screen, not investment advice._
 
 ## Ledger (every screened issue)
 
@@ -35,8 +35,8 @@ _Updated automatically after every screener run; last update 2026-10-01 13:12 IS
 | ELEVATE | MAIN | 2026-09-25 | 2026-09-25 13:11 | -1 | NO DATA | - | 0.38 | 0.4 | 0.38 | -4.91 | 2026-09-30 | 362.0 | -1.9% | -10.8% | 41 | -Rs 283 | 99.0 | -Rs 280 | NO CALL |
 | POOJALOGIS | SME | 2026-09-25 | 2026-09-25 13:11 | -2 | NO DATA | - | - | - | 0.8 | -4.91 | 2026-09-30 | 115.0 | +2.6% | +7.7% | 2400 | +Rs 7,200 | 33.8 | +Rs 2,434 | NO CALL |
 | SWASTIKAIN | MAIN | 2026-09-25 | 2026-09-25 13:11 | 0 | NO DATA | - | 1.05 | 6.14 | 3.16 | -4.91 | 2026-09-30 | 185.0 | +8.1% | +13.5% | 81 | +Rs 1,215 | 18.6 | +Rs 226 | NO CALL |
-| AONESTEELS | MAIN | 2026-09-28 | 2026-09-27 17:47 | -2 | SKIP | 12.59 | 0.09 | 2.07 | 1.35 | -4.91 | - | - | - | - | 37 | - | 11.6 | - | not listed |
-| MONEYVIEW | MAIN | 2026-09-28 | 2026-09-27 17:47 | 0 | SKIP | 41.18 | 0.25 | 15.41 | 6.01 | -4.91 | - | - | - | - | 441 | - | 5.1 | - | not listed |
+| AONESTEELS | MAIN | 2026-09-28 | 2026-09-27 17:47 | -2 | SKIP | 12.59 | 0.09 | 2.07 | 1.35 | -4.91 | 2026-10-01 | 405.0 | +12.3% | +2.9% | 37 | +Rs 1,850 | 11.6 | +Rs 215 | MISSED |
+| MONEYVIEW | MAIN | 2026-09-28 | 2026-09-27 17:47 | 0 | SKIP | 41.18 | 0.25 | 15.41 | 6.01 | -4.91 | 2026-10-01 | 34.0 | +61.8% | +58.5% | 441 | +Rs 9,261 | 5.1 | +Rs 472 | MISSED |
 | ACEVECTOR | MAIN | 2026-09-29 | 2026-09-29 13:12 | 0 | NO DATA | - | 1.5 | 2.49 | 1.98 | -6.09 | - | - | - | - | 468 | - | 21.6 | - | not listed |
 | BMISL | SME | 2026-09-29 | 2026-09-29 13:12 | 0 | NO DATA | - | - | - | 21.03 | -6.09 | - | - | - | - | 2400 | - | 1.0 | - | not listed |
 | GERMAN | MAIN | 2026-09-29 | 2026-09-29 13:12 | 1 | NO DATA | - | 1.99 | 25.18 | 13.17 | -6.09 | - | - | - | - | 107 | - | 4.4 | - | not listed |
@@ -46,7 +46,7 @@ _Updated automatically after every screener run; last update 2026-10-01 13:12 IS
 | SHAHINVEST | MAIN | 2026-09-30 | 2026-09-30 13:11 | 2 | WATCH | 8.988 | 4.61 | 23.78 | 9.68 | -5.35 | - | - | - | - | 85 | - | 5.2 | - | not listed |
 | SRIT | MAIN | 2026-09-30 | 2026-09-30 13:11 | 1 | SKIP | 23.85 | 0.77 | 116.43 | 39.69 | -5.35 | - | - | - | - | 115 | - | 1.6 | - | not listed |
 | GREENASIA | SME | 2026-10-01 | 2026-10-01 13:11 | -3 | SKIP | 0.0 | - | - | 0.89 | -6.98 | - | - | - | - | 3200 | - | 100.0 | - | not listed |
-| PAPADMALJI | SME | 2026-10-01 | 2026-10-01 13:11 | -2 | SKIP | 0.0 | - | - | 2.09 | -6.98 | - | - | - | - | 3200 | - | 47.8 | - | not listed |
-| EVENTIONS | SME | 2026-10-05 | 2026-10-01 13:11 | -3 | SKIP | 0.0 | - | - | 1.22 | -6.98 | - | - | - | - | 2400 | - | 82.0 | - | open |
-| NITYAS | MAIN | 2026-10-05 | 2026-10-01 13:11 | -2 | SKIP | 6.67 | 0.0 | 0.2 | 0.4 | -6.98 | - | - | - | - | 200 | - | 95.2 | - | open |
-| VNL | MAIN | 2026-10-05 | 2026-10-01 13:11 | -1 | SKIP | 15.91 | 0.96 | 0.63 | 0.4 | -6.98 | - | - | - | - | 68 | - | 100.0 | - | open |
+| PAPADMALJI | SME | 2026-10-01 | 2026-10-01 13:11 | -2 | SKIP | 0.0 | - | - | 2.09 | -6.98 | - | - | - | - | 3200 | - | 40.7 | - | not listed |
+| EVENTIONS | SME | 2026-10-05 | 2026-10-01 17:47 | -3 | SKIP | 0.0 | - | - | 1.75 | -6.79 | - | - | - | - | 2400 | - | 57.1 | - | open |
+| NITYAS | MAIN | 2026-10-05 | 2026-10-01 17:47 | -2 | SKIP | 6.67 | 0.38 | 0.27 | 0.69 | -6.79 | - | - | - | - | 200 | - | 76.3 | - | open |
+| VNL | MAIN | 2026-10-05 | 2026-10-01 17:47 | -1 | SKIP | 15.91 | 0.96 | 0.8 | 0.57 | -6.79 | - | - | - | - | 68 | - | 100.0 | - | open |
