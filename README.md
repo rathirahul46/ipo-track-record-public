@@ -1,6 +1,6 @@
 # IPO listing-gain screen: track record
 
-_Updated automatically after every screener run; last update 2026-10-04 17:47 IST. A listing-gain screen, not investment advice._
+_Updated automatically after every screener run; last update 2026-10-05 13:11 IST. A listing-gain screen, not investment advice._
 
 ## Ledger (every screened issue)
 
@@ -47,6 +47,8 @@ _Updated automatically after every screener run; last update 2026-10-04 17:47 IS
 | SRIT | MAIN | 2026-09-30 | 2026-09-30 13:11 | 1 | SKIP | 23.85 | 0.77 | 116.43 | 39.69 | -5.35 | - | - | - | - | 115 | - | 1.6 | - | not listed |
 | GREENASIA | SME | 2026-10-01 | 2026-10-01 13:11 | -3 | SKIP | 0.0 | - | - | 0.89 | -6.98 | - | - | - | - | 3200 | - | 100.0 | - | not listed |
 | PAPADMALJI | SME | 2026-10-01 | 2026-10-01 13:11 | -2 | SKIP | 0.0 | - | - | 2.09 | -6.98 | - | - | - | - | 3200 | - | 40.7 | - | not listed |
-| EVENTIONS | SME | 2026-10-05 | 2026-10-04 17:46 | -2 | NO DATA | - | - | - | 1.75 | -6.24 | - | - | - | - | 2400 | - | 57.1 | - | open |
-| NITYAS | MAIN | 2026-10-05 | 2026-10-04 17:46 | -2 | NO DATA | - | 0.38 | 0.27 | 0.69 | -6.24 | - | - | - | - | 200 | - | 76.3 | - | open |
-| VNL | MAIN | 2026-10-05 | 2026-10-04 17:46 | -2 | NO DATA | - | 0.96 | 0.8 | 0.57 | -6.24 | - | - | - | - | 68 | - | 100.0 | - | open |
+| EVENTIONS | SME | 2026-10-05 | 2026-10-05 13:11 | -1 | NO DATA | - | - | - | 2.03 | -6.01 | - | - | - | - | 2400 | - | 49.3 | - | not listed |
+| NITYAS | MAIN | 2026-10-05 | 2026-10-05 13:11 | -1 | NO DATA | - | 0.6 | 1.16 | 1.48 | -6.01 | - | - | - | - | 200 | - | 35.0 | - | not listed |
+| VNL | MAIN | 2026-10-05 | 2026-10-05 13:11 | -1 | NO DATA | - | 1.03 | 1.49 | 1.33 | -6.01 | - | - | - | - | 68 | - | 78.7 | - | not listed |
+| RKFAL | SME | 2026-10-07 | 2026-10-05 13:11 | -2 | NO DATA | - | - | - | 0.01 | -6.01 | - | - | - | - | 3200 | - | 100.0 | - | open |
+| SMCG04 | MAIN | 2026-10-16 | 2026-10-05 13:11 | -2 | NO DATA | - | - | - | 0.0 | -6.01 | - | - | - | - | - | - | - | - | open |
