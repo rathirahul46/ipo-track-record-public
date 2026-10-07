@@ -1,6 +1,6 @@
 # IPO listing-gain screen: track record
 
-_Updated automatically after every screener run; last update 2026-10-07 13:11 IST. A listing-gain screen, not investment advice._
+_Updated automatically after every screener run; last update 2026-10-07 17:48 IST. A listing-gain screen, not investment advice._
 
 ## Ledger (every screened issue)
 
@@ -45,9 +45,9 @@ _Updated automatically after every screener run; last update 2026-10-07 13:11 IS
 | RUNWALENTR | MAIN | 2026-09-29 | 2026-09-29 13:12 | 0 | NO DATA | - | 1.77 | 2.25 | 1.34 | -6.09 | 2026-10-05 | 305.0 | +0.0% | -1.2% | 49 | Rs 0 | 89.3 | Rs 0 | NO CALL |
 | SHAHINVEST | MAIN | 2026-09-30 | 2026-09-30 13:11 | 2 | WATCH | 8.988 | 4.61 | 23.78 | 9.68 | -5.35 | 2026-10-06 | 167.0 | +2.4% | +4.1% | 85 | +Rs 340 | 5.2 | +Rs 18 | RIGHT |
 | SRIT | MAIN | 2026-09-30 | 2026-09-30 13:11 | 1 | SKIP | 23.85 | 0.77 | 116.43 | 39.69 | -5.35 | 2026-10-06 | 130.0 | +13.8% | +19.3% | 115 | +Rs 2,070 | 1.6 | +Rs 33 | MISSED |
-| GREENASIA | SME | 2026-10-01 | 2026-10-01 13:11 | -3 | SKIP | 0.0 | - | - | 0.89 | -6.98 | - | - | - | - | 3200 | - | 100.0 | - | not listed |
-| PAPADMALJI | SME | 2026-10-01 | 2026-10-01 13:11 | -2 | SKIP | 0.0 | - | - | 2.09 | -6.98 | - | - | - | - | 3200 | - | 40.7 | - | not listed |
+| GREENASIA | SME | 2026-10-01 | 2026-10-01 13:11 | -3 | SKIP | 0.0 | - | - | 0.89 | -6.98 | 2026-10-07 | 89.0 | +0.0% | -5.0% | 3200 | Rs 0 | 100.0 | Rs 0 | RIGHT |
+| PAPADMALJI | SME | 2026-10-01 | 2026-10-01 13:11 | -2 | SKIP | 0.0 | - | - | 2.09 | -6.98 | 2026-10-07 | 72.0 | +0.4% | -4.5% | 3200 | +Rs 960 | 40.7 | +Rs 391 | RIGHT |
 | EVENTIONS | SME | 2026-10-05 | 2026-10-05 13:11 | -1 | NO DATA | - | - | - | 2.03 | -6.01 | - | - | - | - | 2400 | - | 43.1 | - | not listed |
 | NITYAS | MAIN | 2026-10-05 | 2026-10-05 13:11 | -1 | NO DATA | - | 0.6 | 1.16 | 1.48 | -6.01 | - | - | - | - | 200 | - | 24.8 | - | not listed |
 | VNL | MAIN | 2026-10-05 | 2026-10-05 13:11 | -1 | NO DATA | - | 1.03 | 1.49 | 1.33 | -6.01 | - | - | - | - | 68 | - | 59.9 | - | not listed |
-| RKFAL | SME | 2026-10-07 | 2026-10-07 13:11 | -1 | SKIP | 18.29 | - | - | 1.55 | -5.11 | - | - | - | - | 3200 | - | 64.5 | - | not listed |
+| RKFAL | SME | 2026-10-07 | 2026-10-07 13:11 | -1 | SKIP | 18.29 | - | - | 1.55 | -5.11 | - | - | - | - | 3200 | - | 38.3 | - | not listed |
