@@ -1,6 +1,6 @@
 # IPO listing-gain screen: track record
 
-_Updated automatically after every screener run; last update 2026-10-08 17:49 IST. A listing-gain screen, not investment advice._
+_Updated automatically after every screener run; last update 2026-10-12 17:49 IST. A listing-gain screen, not investment advice._
 
 ## Ledger (every screened issue)
 
@@ -50,4 +50,4 @@ _Updated automatically after every screener run; last update 2026-10-08 17:49 IS
 | EVENTIONS | SME | 2026-10-05 | 2026-10-05 13:11 | -1 | NO DATA | - | - | - | 2.03 | -6.01 | 2026-10-08 | 118.0 | -5.9% | -10.6% | 2400 | -Rs 16,800 | 43.1 | -Rs 7,241 | NO CALL |
 | NITYAS | MAIN | 2026-10-05 | 2026-10-05 13:11 | -1 | NO DATA | - | 0.6 | 1.16 | 1.48 | -6.01 | 2026-10-08 | 75.0 | +6.7% | +12.0% | 200 | +Rs 1,000 | 24.8 | +Rs 248 | NO CALL |
 | VNL | MAIN | 2026-10-05 | 2026-10-05 13:11 | -1 | NO DATA | - | 1.03 | 1.49 | 1.33 | -6.01 | 2026-10-08 | 220.0 | -2.3% | -7.2% | 68 | -Rs 340 | 59.9 | -Rs 204 | NO CALL |
-| RKFAL | SME | 2026-10-07 | 2026-10-07 13:11 | -1 | SKIP | 18.29 | - | - | 1.55 | -5.11 | - | - | - | - | 3200 | - | 38.3 | - | not listed |
+| RKFAL | SME | 2026-10-07 | 2026-10-07 13:11 | -1 | SKIP | 18.29 | - | - | 1.55 | -5.11 | 2026-10-12 | 82.0 | -2.4% | -7.3% | 3200 | -Rs 6,400 | 38.3 | -Rs 2,451 | RIGHT |
