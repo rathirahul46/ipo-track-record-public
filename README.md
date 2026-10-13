@@ -1,6 +1,6 @@
 # IPO listing-gain screen: track record
 
-_Updated automatically after every screener run; last update 2026-10-13 13:13 IST. A listing-gain screen, not investment advice._
+_Updated automatically after every screener run; last update 2026-10-13 17:48 IST. A listing-gain screen, not investment advice._
 
 ## Ledger (every screened issue)
 
@@ -51,5 +51,5 @@ _Updated automatically after every screener run; last update 2026-10-13 13:13 IS
 | NITYAS | MAIN | 2026-10-05 | 2026-10-05 13:11 | -1 | NO DATA | - | 0.6 | 1.16 | 1.48 | -6.01 | 2026-10-08 | 75.0 | +6.7% | +12.0% | 200 | +Rs 1,000 | 24.8 | +Rs 248 | NO CALL |
 | VNL | MAIN | 2026-10-05 | 2026-10-05 13:11 | -1 | NO DATA | - | 1.03 | 1.49 | 1.33 | -6.01 | 2026-10-08 | 220.0 | -2.3% | -7.2% | 68 | -Rs 340 | 59.9 | -Rs 204 | NO CALL |
 | RKFAL | SME | 2026-10-07 | 2026-10-07 13:11 | -1 | SKIP | 18.29 | - | - | 1.55 | -5.11 | 2026-10-12 | 82.0 | -2.4% | -7.3% | 3200 | -Rs 6,400 | 38.3 | -Rs 2,451 | RIGHT |
-| HDFIRE | MAIN | 2026-10-15 | 2026-10-13 13:12 | -2 | NO DATA | - | 0.0 | 4.83 | 2.1 | -3.62 | - | - | - | - | 55 | - | 46.9 | - | open |
-| LOANFRONT | SME | 2026-10-15 | 2026-10-13 13:12 | -2 | NO DATA | - | - | - | 0.07 | -3.62 | - | - | - | - | 4000 | - | 100.0 | - | open |
+| HDFIRE | MAIN | 2026-10-15 | 2026-10-13 17:47 | 2 | WATCH | 31.73 | 1.04 | 11.38 | 4.62 | -2.89 | - | - | - | - | 55 | - | 26.5 | - | open |
+| LOANFRONT | SME | 2026-10-15 | 2026-10-13 17:47 | -2 | SKIP | 0.0 | - | - | 0.17 | -2.89 | - | - | - | - | 4000 | - | 100.0 | - | open |
