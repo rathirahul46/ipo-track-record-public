@@ -1,6 +1,6 @@
 # IPO listing-gain screen: track record
 
-_Updated automatically after every screener run; last update 2026-10-14 13:12 IST. A listing-gain screen, not investment advice._
+_Updated automatically after every screener run; last update 2026-10-14 17:49 IST. A listing-gain screen, not investment advice._
 
 ## Ledger (every screened issue)
 
@@ -51,7 +51,7 @@ _Updated automatically after every screener run; last update 2026-10-14 13:12 IS
 | NITYAS | MAIN | 2026-10-05 | 2026-10-05 13:11 | -1 | NO DATA | - | 0.6 | 1.16 | 1.48 | -6.01 | 2026-10-08 | 75.0 | +6.7% | +12.0% | 200 | +Rs 1,000 | 24.8 | +Rs 248 | NO CALL |
 | VNL | MAIN | 2026-10-05 | 2026-10-05 13:11 | -1 | NO DATA | - | 1.03 | 1.49 | 1.33 | -6.01 | 2026-10-08 | 220.0 | -2.3% | -7.2% | 68 | -Rs 340 | 59.9 | -Rs 204 | NO CALL |
 | RKFAL | SME | 2026-10-07 | 2026-10-07 13:11 | -1 | SKIP | 18.29 | - | - | 1.55 | -5.11 | 2026-10-12 | 82.0 | -2.4% | -7.3% | 3200 | -Rs 6,400 | 38.3 | -Rs 2,451 | RIGHT |
-| HDFIRE | MAIN | 2026-10-15 | 2026-10-14 13:11 | 3 | WATCH | 33.58 | 1.1 | 30.9 | 10.93 | -3.45 | - | - | - | - | 55 | - | 12.5 | - | open |
-| LOANFRONT | SME | 2026-10-15 | 2026-10-14 13:11 | -3 | SKIP | 0.0 | - | - | 0.24 | -3.45 | - | - | - | - | 4000 | - | 100.0 | - | open |
-| FUSIONCX | MAIN | 2026-10-16 | 2026-10-14 13:11 | -2 | SKIP | 11.76 | 0.0 | 0.19 | 0.2 | -3.45 | - | - | - | - | 51 | - | 100.0 | - | open |
-| RAVITA | SME | 2026-10-16 | 2026-10-14 13:11 | -3 | SKIP | 1.79 | - | - | 0.36 | -3.45 | - | - | - | - | 2400 | - | 100.0 | - | open |
+| HDFIRE | MAIN | 2026-10-15 | 2026-10-14 17:48 | 3 | WATCH | 33.58 | 1.49 | 48.7 | 16.5 | -3.31 | - | - | - | - | 55 | - | 8.8 | - | open |
+| LOANFRONT | SME | 2026-10-15 | 2026-10-14 17:48 | -3 | SKIP | 0.0 | - | - | 0.43 | -3.31 | - | - | - | - | 4000 | - | 100.0 | - | open |
+| FUSIONCX | MAIN | 2026-10-16 | 2026-10-14 17:48 | -2 | SKIP | 11.76 | 0.0 | 0.46 | 0.41 | -3.31 | - | - | - | - | 51 | - | 64.5 | - | open |
+| RAVITA | SME | 2026-10-16 | 2026-10-14 17:48 | -3 | SKIP | 1.79 | - | - | 1.05 | -3.31 | - | - | - | - | 2400 | - | 95.2 | - | open |
