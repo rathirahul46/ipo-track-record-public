@@ -44,7 +44,11 @@ EVENTIONS,Eventions Limited,SME,2026-10-05,2026-10-05 13:11,True,-1,NO DATA,,,,2
 NITYAS,Nityas Gems and Jewellery Limited,MAIN,2026-10-05,2026-10-05 13:11,True,-1,NO DATA,,0.6,1.16,1.48,-6.01,2.25,4.04,200,2026-10-08,75.0,80.0,83.99,6.67,11.99,1000.0,1798.0,24.8,248.0,NO CALL,NO CALL
 VNL,Vishal Nirmiti Limited,MAIN,2026-10-05,2026-10-05 13:11,True,-1,NO DATA,,1.03,1.49,1.33,-6.01,1.71,1.67,68,2026-10-08,220.0,215.0,204.25,-2.27,-7.16,-340.0,-1071.0,59.9,-204.0,NO CALL,NO CALL
 RKFAL,R.K. Fashion Accessories Limited,SME,2026-10-07,2026-10-07 13:11,True,-1,SKIP,18.29,,,1.55,-5.11,2.61,,3200,2026-10-12,82.0,80.0,76.0,-2.44,-7.32,-6400.0,-19200.0,38.3,-2451.0,PASS,RIGHT
-HDFIRE,HD Fire Protect Limited,MAIN,2026-10-15,2026-10-14 17:48,False,3,WATCH,33.58,1.49,48.7,16.5,-3.31,16.5,11.33,55,,,,,,,,,8.8,,PASS,open
-LOANFRONT,Vaibhav Vyapaar Limited,SME,2026-10-15,2026-10-14 17:48,False,-3,SKIP,0.0,,,0.43,-3.31,0.43,,4000,,,,,,,,,100.0,,PASS,open
-FUSIONCX,Fusion CX Limited,MAIN,2026-10-16,2026-10-14 17:48,False,-2,SKIP,11.76,0.0,0.46,0.41,-3.31,0.41,1.55,51,,,,,,,,,64.5,,PASS,open
-RAVITA,Ravita Engineering Services Limited,SME,2026-10-16,2026-10-14 17:48,False,-3,SKIP,1.79,,,1.05,-3.31,1.05,,2400,,,,,,,,,95.2,,PASS,open
+HDFIRE,HD Fire Protect Limited,MAIN,2026-10-15,2026-10-15 13:11,True,4,NO DATA,,14.61,129.29,42.35,-0.44,42.35,21.14,55,,,,,,,,,4.7,,NO CALL,not listed
+LOANFRONT,Vaibhav Vyapaar Limited,SME,2026-10-15,2026-10-15 13:11,True,-1,NO DATA,,,,1.36,-0.44,1.36,,4000,,,,,,,,,73.5,,NO CALL,not listed
+FUSIONCX,Fusion CX Limited,MAIN,2026-10-16,2026-10-15 13:11,False,-1,NO DATA,,0.0,1.0,0.79,-0.44,0.79,2.87,51,,,,,,,,,34.8,,NO CALL,open
+RAVITA,Ravita Engineering Services Limited,SME,2026-10-16,2026-10-15 13:11,False,-1,NO DATA,,,,1.37,-0.44,1.37,,2400,,,,,,,,,73.0,,NO CALL,open
+BONFIG,Bonfiglioli Transmissions Limited,MAIN,2026-10-19,2026-10-15 13:11,False,-1,NO DATA,,0.0,0.36,0.24,-0.44,0.24,0.32,25,,,,,,,,,100.0,,NO CALL,open
+SMT,Sahajanand Medical Technologies Limited,MAIN,2026-10-19,2026-10-15 13:11,False,-1,NO DATA,,0.0,0.09,0.13,-0.44,0.13,0.22,43,,,,,,,,,100.0,,NO CALL,open
+TONBO,Tonbo Imaging India Limited,MAIN,2026-10-19,2026-10-15 13:11,False,-1,NO DATA,,0.0,2.8,1.5,-0.44,1.5,1.8,21,,,,,,,,,55.6,,NO CALL,open
+ZETWERK,Zetwerk Manufacturing Businesses Limited,MAIN,2026-10-19,2026-10-15 13:11,False,-1,NO DATA,,0.08,0.03,0.07,-0.44,0.07,0.13,99,,,,,,,,,100.0,,NO CALL,open
