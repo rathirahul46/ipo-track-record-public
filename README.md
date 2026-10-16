@@ -1,6 +1,6 @@
 # IPO listing-gain screen: track record
 
-_Updated automatically after every screener run; last update 2026-10-16 13:12 IST. A listing-gain screen, not investment advice._
+_Updated automatically after every screener run; last update 2026-10-16 17:49 IST. A listing-gain screen, not investment advice._
 
 ## Ledger (every screened issue)
 
@@ -53,9 +53,9 @@ _Updated automatically after every screener run; last update 2026-10-16 13:12 IS
 | RKFAL | SME | 2026-10-07 | 2026-10-07 13:11 | -1 | SKIP | 18.29 | - | - | 1.55 | -5.11 | 2026-10-12 | 82.0 | -2.4% | -7.3% | 3200 | -Rs 6,400 | 38.3 | -Rs 2,451 | RIGHT |
 | HDFIRE | MAIN | 2026-10-15 | 2026-10-15 13:11 | 4 | NO DATA | - | 14.61 | 129.29 | 42.35 | -0.44 | - | - | - | - | 55 | - | 3.3 | - | not listed |
 | LOANFRONT | SME | 2026-10-15 | 2026-10-15 13:11 | -1 | NO DATA | - | - | - | 1.36 | -0.44 | - | - | - | - | 4000 | - | 32.5 | - | not listed |
-| FUSIONCX | MAIN | 2026-10-16 | 2026-10-16 13:11 | 0 | SKIP | 6.92 | 0.23 | 2.55 | 1.7 | -0.44 | - | - | - | - | 51 | - | 20.6 | - | not listed |
-| RAVITA | SME | 2026-10-16 | 2026-10-16 13:11 | -1 | SKIP | 1.79 | - | - | 2.62 | -0.44 | - | - | - | - | 2400 | - | 38.2 | - | not listed |
-| BONFIG | MAIN | 2026-10-19 | 2026-10-16 13:11 | 0 | SKIP | 21.33 | 0.08 | 1.21 | 0.73 | -0.44 | - | - | - | - | 25 | - | 100.0 | - | open |
-| SMT | MAIN | 2026-10-19 | 2026-10-16 13:11 | -1 | SKIP | 11.63 | 0.37 | 0.36 | 0.5 | -0.44 | - | - | - | - | 43 | - | 100.0 | - | open |
-| TONBO | MAIN | 2026-10-19 | 2026-10-16 13:11 | 4 | CANDIDATE | 71.43 | 3.94 | 10.45 | 6.12 | -0.44 | - | - | - | - | 21 | - | 18.2 | - | open |
-| ZETWERK | MAIN | 2026-10-19 | 2026-10-16 13:11 | -1 | SKIP | 7.28 | 0.3 | 0.12 | 0.25 | -0.44 | - | - | - | - | 99 | - | 100.0 | - | open |
+| FUSIONCX | MAIN | 2026-10-16 | 2026-10-16 13:11 | 0 | SKIP | 6.92 | 0.23 | 2.55 | 1.7 | -0.44 | - | - | - | - | 51 | - | 17.5 | - | not listed |
+| RAVITA | SME | 2026-10-16 | 2026-10-16 13:11 | -1 | SKIP | 1.79 | - | - | 2.62 | -0.44 | - | - | - | - | 2400 | - | 15.0 | - | not listed |
+| BONFIG | MAIN | 2026-10-19 | 2026-10-16 17:48 | 0 | SKIP | 21.33 | 0.16 | 1.71 | 0.99 | -0.31 | - | - | - | - | 25 | - | 86.2 | - | open |
+| SMT | MAIN | 2026-10-19 | 2026-10-16 17:48 | 0 | SKIP | 11.63 | 1.12 | 0.51 | 0.82 | -0.31 | - | - | - | - | 43 | - | 100.0 | - | open |
+| TONBO | MAIN | 2026-10-19 | 2026-10-16 17:48 | 4 | CANDIDATE | 71.43 | 3.95 | 14.35 | 7.77 | -0.31 | - | - | - | - | 21 | - | 14.0 | - | open |
+| ZETWERK | MAIN | 2026-10-19 | 2026-10-16 17:48 | -1 | SKIP | 7.28 | 0.37 | 0.16 | 0.31 | -0.31 | - | - | - | - | 99 | - | 100.0 | - | open |
