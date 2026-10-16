@@ -46,9 +46,9 @@ VNL,Vishal Nirmiti Limited,MAIN,2026-10-05,2026-10-05 13:11,True,-1,NO DATA,,1.0
 RKFAL,R.K. Fashion Accessories Limited,SME,2026-10-07,2026-10-07 13:11,True,-1,SKIP,18.29,,,1.55,-5.11,2.61,,3200,2026-10-12,82.0,80.0,76.0,-2.44,-7.32,-6400.0,-19200.0,38.3,-2451.0,PASS,RIGHT
 HDFIRE,HD Fire Protect Limited,MAIN,2026-10-15,2026-10-15 13:11,True,4,NO DATA,,14.61,129.29,42.35,-0.44,131.7,30.49,55,,,,,,,,,3.3,,NO CALL,not listed
 LOANFRONT,Vaibhav Vyapaar Limited,SME,2026-10-15,2026-10-15 13:11,True,-1,NO DATA,,,,1.36,-0.44,3.08,,4000,,,,,,,,,32.5,,NO CALL,not listed
-FUSIONCX,Fusion CX Limited,MAIN,2026-10-16,2026-10-15 17:47,False,-1,SKIP,11.76,0.05,1.45,1.1,-0.52,1.1,3.72,51,,,,,,,,,26.9,,PASS,open
-RAVITA,Ravita Engineering Services Limited,SME,2026-10-16,2026-10-15 17:47,False,-1,SKIP,6.25,,,1.62,-0.52,1.62,,2400,,,,,,,,,61.7,,PASS,open
-BONFIG,Bonfiglioli Transmissions Limited,MAIN,2026-10-19,2026-10-15 17:47,False,1,SKIP,30.71,0.08,0.76,0.47,-0.52,0.47,0.57,25,,,,,,,,,100.0,,PASS,open
-SMT,Sahajanand Medical Technologies Limited,MAIN,2026-10-19,2026-10-15 17:47,False,-1,SKIP,12.21,0.37,0.2,0.34,-0.52,0.34,0.4,43,,,,,,,,,100.0,,PASS,open
-TONBO,Tonbo Imaging India Limited,MAIN,2026-10-19,2026-10-15 17:47,False,3,WATCH,71.43,3.92,5.93,3.99,-0.52,3.99,3.19,21,,,,,,,,,31.3,,PASS,open
-ZETWERK,Zetwerk Manufacturing Businesses Limited,MAIN,2026-10-19,2026-10-15 17:47,False,0,SKIP,15.23,0.3,0.08,0.22,-0.52,0.22,0.22,99,,,,,,,,,100.0,,PASS,open
+FUSIONCX,Fusion CX Limited,MAIN,2026-10-16,2026-10-16 13:11,True,0,SKIP,6.92,0.23,2.55,1.7,-0.44,1.7,4.86,51,,,,,,,,,20.6,,PASS,not listed
+RAVITA,Ravita Engineering Services Limited,SME,2026-10-16,2026-10-16 13:11,True,-1,SKIP,1.79,,,2.62,-0.44,2.62,,2400,,,,,,,,,38.2,,PASS,not listed
+BONFIG,Bonfiglioli Transmissions Limited,MAIN,2026-10-19,2026-10-16 13:11,False,0,SKIP,21.33,0.08,1.21,0.73,-0.44,0.73,0.89,25,,,,,,,,,100.0,,PASS,open
+SMT,Sahajanand Medical Technologies Limited,MAIN,2026-10-19,2026-10-16 13:11,False,-1,SKIP,11.63,0.37,0.36,0.5,-0.44,0.5,0.64,43,,,,,,,,,100.0,,PASS,open
+TONBO,Tonbo Imaging India Limited,MAIN,2026-10-19,2026-10-16 13:11,False,4,CANDIDATE,71.43,3.94,10.45,6.12,-0.44,6.12,5.49,21,,,,,,,,,18.2,,APPLY,open
+ZETWERK,Zetwerk Manufacturing Businesses Limited,MAIN,2026-10-19,2026-10-16 13:11,False,-1,SKIP,7.28,0.3,0.12,0.25,-0.44,0.25,0.3,99,,,,,,,,,100.0,,PASS,open
