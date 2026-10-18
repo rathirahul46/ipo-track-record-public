@@ -48,7 +48,7 @@ HDFIRE,HD Fire Protect Limited,MAIN,2026-10-15,2026-10-15 13:11,True,4,NO DATA,,
 LOANFRONT,Vaibhav Vyapaar Limited,SME,2026-10-15,2026-10-15 13:11,True,-1,NO DATA,,,,1.36,-0.44,3.08,,4000,,,,,,,,,32.5,,NO CALL,not listed
 FUSIONCX,Fusion CX Limited,MAIN,2026-10-16,2026-10-16 13:11,True,0,SKIP,6.92,0.23,2.55,1.7,-0.44,4.45,5.7,51,,,,,,,,,17.5,,PASS,not listed
 RAVITA,Ravita Engineering Services Limited,SME,2026-10-16,2026-10-16 13:11,True,-1,SKIP,1.79,,,2.62,-0.44,6.68,,2400,,,,,,,,,15.0,,PASS,not listed
-BONFIG,Bonfiglioli Transmissions Limited,MAIN,2026-10-19,2026-10-18 13:05,False,0,SKIP,22.18,0.16,1.71,0.99,-0.31,0.99,1.16,25,,,,,,,,,86.2,,PASS,open
-SMT,Sahajanand Medical Technologies Limited,MAIN,2026-10-19,2026-10-18 13:05,False,0,SKIP,4.36,1.12,0.51,0.82,-0.31,0.82,0.82,43,,,,,,,,,100.0,,PASS,open
-TONBO,Tonbo Imaging India Limited,MAIN,2026-10-19,2026-10-18 13:05,False,4,CANDIDATE,75.0,3.95,14.35,7.77,-0.31,7.77,7.12,21,,,,,,,,,14.0,,APPLY,open
-ZETWERK,Zetwerk Manufacturing Businesses Limited,MAIN,2026-10-19,2026-10-18 13:05,False,-2,SKIP,3.31,0.37,0.16,0.31,-0.31,0.31,0.35,99,,,,,,,,,100.0,,PASS,open
+BONFIG,Bonfiglioli Transmissions Limited,MAIN,2026-10-19,2026-10-18 17:47,False,0,SKIP,22.18,0.16,1.71,0.99,-0.31,0.99,1.16,25,,,,,,,,,86.2,,PASS,open
+SMT,Sahajanand Medical Technologies Limited,MAIN,2026-10-19,2026-10-18 17:47,False,0,SKIP,4.36,1.12,0.51,0.82,-0.31,0.82,0.82,43,,,,,,,,,100.0,,PASS,open
+TONBO,Tonbo Imaging India Limited,MAIN,2026-10-19,2026-10-18 17:47,False,4,CANDIDATE,75.0,3.95,14.35,7.77,-0.31,7.77,7.12,21,,,,,,,,,14.0,,APPLY,open
+ZETWERK,Zetwerk Manufacturing Businesses Limited,MAIN,2026-10-19,2026-10-18 17:47,False,-2,SKIP,3.31,0.37,0.16,0.31,-0.31,0.31,0.35,99,,,,,,,,,100.0,,PASS,open
