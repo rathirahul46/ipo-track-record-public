@@ -1,6 +1,6 @@
 # IPO listing-gain screen: track record
 
-_Updated automatically after every screener run; last update 2026-10-19 13:05 IST. A listing-gain screen, not investment advice._
+_Updated automatically after every screener run; last update 2026-10-19 17:50 IST. A listing-gain screen, not investment advice._
 
 ## Ledger (every screened issue)
 
@@ -55,7 +55,7 @@ _Updated automatically after every screener run; last update 2026-10-19 13:05 IS
 | LOANFRONT | SME | 2026-10-15 | 2026-10-15 13:11 | -1 | NO DATA | - | - | - | 1.36 | -0.44 | - | - | - | - | 4000 | - | 32.5 | - | not listed |
 | FUSIONCX | MAIN | 2026-10-16 | 2026-10-16 13:11 | 0 | SKIP | 6.92 | 0.23 | 2.55 | 1.7 | -0.44 | - | - | - | - | 51 | - | 17.5 | - | not listed |
 | RAVITA | SME | 2026-10-16 | 2026-10-16 13:11 | -1 | SKIP | 1.79 | - | - | 2.62 | -0.44 | - | - | - | - | 2400 | - | 15.0 | - | not listed |
-| BONFIG | MAIN | 2026-10-19 | 2026-10-19 13:05 | 2 | WATCH | 22.18 | 4.71 | 18.66 | 7.03 | -1.68 | - | - | - | - | 25 | - | 29.6 | - | not listed |
-| SMT | MAIN | 2026-10-19 | 2026-10-19 13:05 | 1 | SKIP | 7.27 | 1.58 | 3.63 | 2.0 | -1.68 | - | - | - | - | 43 | - | 61.3 | - | not listed |
-| TONBO | MAIN | 2026-10-19 | 2026-10-19 13:05 | 6 | CANDIDATE | 74.28 | 27.11 | 93.28 | 37.53 | -1.68 | - | - | - | - | 21 | - | 5.1 | - | not listed |
+| BONFIG | MAIN | 2026-10-19 | 2026-10-19 13:05 | 2 | WATCH | 22.18 | 4.71 | 18.66 | 7.03 | -1.68 | - | - | - | - | 25 | - | 16.9 | - | not listed |
+| SMT | MAIN | 2026-10-19 | 2026-10-19 13:05 | 1 | SKIP | 7.27 | 1.58 | 3.63 | 2.0 | -1.68 | - | - | - | - | 43 | - | 33.0 | - | not listed |
+| TONBO | MAIN | 2026-10-19 | 2026-10-19 13:05 | 6 | CANDIDATE | 74.28 | 27.11 | 93.28 | 37.53 | -1.68 | - | - | - | - | 21 | - | 3.2 | - | not listed |
 | ZETWERK | MAIN | 2026-10-19 | 2026-10-19 13:05 | -1 | SKIP | 3.31 | 1.32 | 0.57 | 0.95 | -1.68 | - | - | - | - | 99 | - | 100.0 | - | not listed |
