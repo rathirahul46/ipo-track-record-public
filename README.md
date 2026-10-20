@@ -1,6 +1,6 @@
 # IPO listing-gain screen: track record
 
-_Updated automatically after every screener run; last update 2026-10-19 17:50 IST. A listing-gain screen, not investment advice._
+_Updated automatically after every screener run; last update 2026-10-20 13:06 IST. A listing-gain screen, not investment advice._
 
 ## Ledger (every screened issue)
 
