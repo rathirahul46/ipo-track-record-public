@@ -52,3 +52,5 @@ BONFIG,Bonfiglioli Transmissions Limited,MAIN,2026-10-19,2026-10-19 13:05,True,2
 SMT,Sahajanand Medical Technologies Limited,MAIN,2026-10-19,2026-10-19 13:05,True,1,SKIP,7.27,1.58,3.63,2.0,-1.68,14.2,3.03,43,,,,,,,,,33.0,,PASS,not listed
 TONBO,Tonbo Imaging India Limited,MAIN,2026-10-19,2026-10-19 13:05,True,6,CANDIDATE,74.28,27.11,93.28,37.53,-1.68,135.9,31.07,21,,,,,,,,,3.2,,APPLY,not listed
 ZETWERK,Zetwerk Manufacturing Businesses Limited,MAIN,2026-10-19,2026-10-19 13:05,True,-1,SKIP,3.31,1.32,0.57,0.95,-1.68,3.06,0.73,99,,,,,,,,,100.0,,PASS,not listed
+JPL,Jio Platforms Limited,MAIN,2026-10-23,2026-10-21 13:05,False,2,WATCH,22.34,4.86,0.63,1.65,-2.91,1.65,0.47,12,,,,,,,,,100.0,,PASS,open
+PARASHLTH,Paras Healthcare Limited,MAIN,2026-10-23,2026-10-21 13:05,False,-1,SKIP,7.22,0.0,0.04,0.1,-2.91,0.1,0.47,21,,,,,,,,,100.0,,PASS,open
