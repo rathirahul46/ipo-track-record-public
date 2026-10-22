@@ -1,6 +1,6 @@
 # IPO listing-gain screen: track record
 
-_Updated automatically after every screener run; last update 2026-10-22 13:07 IST. A listing-gain screen, not investment advice._
+_Updated automatically after every screener run; last update 2026-10-22 17:51 IST. A listing-gain screen, not investment advice._
 
 ## Ledger (every screened issue)
 
@@ -53,11 +53,11 @@ _Updated automatically after every screener run; last update 2026-10-22 13:07 IS
 | RKFAL | SME | 2026-10-07 | 2026-10-07 13:11 | -1 | SKIP | 18.29 | - | - | 1.55 | -5.11 | 2026-10-12 | 82.0 | -2.4% | -7.3% | 3200 | -Rs 6,400 | 38.3 | -Rs 2,451 | RIGHT |
 | HDFIRE | MAIN | 2026-10-15 | 2026-10-15 13:11 | 4 | NO DATA | - | 14.61 | 129.29 | 42.35 | -0.44 | 2026-10-21 | 271.0 | +23.6% | +13.2% | 55 | +Rs 3,520 | 3.3 | +Rs 116 | NO CALL |
 | LOANFRONT | SME | 2026-10-15 | 2026-10-15 13:11 | -1 | NO DATA | - | - | - | 1.36 | -0.44 | 2026-10-21 | 54.0 | -2.0% | -1.8% | 4000 | -Rs 4,400 | 32.5 | -Rs 1,430 | NO CALL |
-| FUSIONCX | MAIN | 2026-10-16 | 2026-10-16 13:11 | 0 | SKIP | 6.92 | 0.23 | 2.55 | 1.7 | -0.44 | - | - | - | - | 51 | - | 17.5 | - | not listed |
-| RAVITA | SME | 2026-10-16 | 2026-10-16 13:11 | -1 | SKIP | 1.79 | - | - | 2.62 | -0.44 | - | - | - | - | 2400 | - | 15.0 | - | not listed |
+| FUSIONCX | MAIN | 2026-10-16 | 2026-10-16 13:11 | 0 | SKIP | 6.92 | 0.23 | 2.55 | 1.7 | -0.44 | 2026-10-22 | 289.0 | +5.5% | +0.2% | 51 | +Rs 816 | 17.5 | +Rs 143 | RIGHT |
+| RAVITA | SME | 2026-10-16 | 2026-10-16 13:11 | -1 | SKIP | 1.79 | - | - | 2.62 | -0.44 | 2026-10-22 | 112.0 | +0.0% | +1.5% | 2400 | Rs 0 | 15.0 | Rs 0 | RIGHT |
 | BONFIG | MAIN | 2026-10-19 | 2026-10-19 13:05 | 2 | WATCH | 22.18 | 4.71 | 18.66 | 7.03 | -1.68 | - | - | - | - | 25 | - | 16.9 | - | not listed |
 | SMT | MAIN | 2026-10-19 | 2026-10-19 13:05 | 1 | SKIP | 7.27 | 1.58 | 3.63 | 2.0 | -1.68 | - | - | - | - | 43 | - | 33.0 | - | not listed |
 | TONBO | MAIN | 2026-10-19 | 2026-10-19 13:05 | 6 | CANDIDATE | 74.28 | 27.11 | 93.28 | 37.53 | -1.68 | - | - | - | - | 21 | - | 3.2 | - | not listed |
 | ZETWERK | MAIN | 2026-10-19 | 2026-10-19 13:05 | -1 | SKIP | 3.31 | 1.32 | 0.57 | 0.95 | -1.68 | - | - | - | - | 99 | - | 100.0 | - | not listed |
-| JPL | MAIN | 2026-10-23 | 2026-10-22 13:07 | 3 | WATCH | 22.34 | 9.66 | 3.41 | 3.88 | -2.76 | - | - | - | - | 12 | - | 84.0 | - | open |
-| PARASHLTH | MAIN | 2026-10-23 | 2026-10-22 13:07 | -2 | SKIP | 3.61 | 0.0 | 0.14 | 0.24 | -2.76 | - | - | - | - | 21 | - | 90.1 | - | open |
+| JPL | MAIN | 2026-10-23 | 2026-10-22 17:50 | 4 | CANDIDATE | 21.89 | 12.87 | 5.64 | 5.37 | -2.75 | - | - | - | - | 12 | - | 66.7 | - | open |
+| PARASHLTH | MAIN | 2026-10-23 | 2026-10-22 17:50 | -2 | SKIP | 2.16 | 0.06 | 0.25 | 0.34 | -2.75 | - | - | - | - | 21 | - | 76.3 | - | open |
