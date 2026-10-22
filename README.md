@@ -1,6 +1,6 @@
 # IPO listing-gain screen: track record
 
-_Updated automatically after every screener run; last update 2026-10-21 17:55 IST. A listing-gain screen, not investment advice._
+_Updated automatically after every screener run; last update 2026-10-22 13:07 IST. A listing-gain screen, not investment advice._
 
 ## Ledger (every screened issue)
 
@@ -59,5 +59,5 @@ _Updated automatically after every screener run; last update 2026-10-21 17:55 IS
 | SMT | MAIN | 2026-10-19 | 2026-10-19 13:05 | 1 | SKIP | 7.27 | 1.58 | 3.63 | 2.0 | -1.68 | - | - | - | - | 43 | - | 33.0 | - | not listed |
 | TONBO | MAIN | 2026-10-19 | 2026-10-19 13:05 | 6 | CANDIDATE | 74.28 | 27.11 | 93.28 | 37.53 | -1.68 | - | - | - | - | 21 | - | 3.2 | - | not listed |
 | ZETWERK | MAIN | 2026-10-19 | 2026-10-19 13:05 | -1 | SKIP | 3.31 | 1.32 | 0.57 | 0.95 | -1.68 | - | - | - | - | 99 | - | 100.0 | - | not listed |
-| JPL | MAIN | 2026-10-23 | 2026-10-21 17:54 | 2 | WATCH | 22.79 | 9.04 | 1.61 | 3.03 | -2.58 | - | - | - | - | 12 | - | 100.0 | - | open |
-| PARASHLTH | MAIN | 2026-10-23 | 2026-10-21 17:54 | -1 | SKIP | 5.77 | 0.0 | 0.08 | 0.15 | -2.58 | - | - | - | - | 21 | - | 100.0 | - | open |
+| JPL | MAIN | 2026-10-23 | 2026-10-22 13:07 | 3 | WATCH | 22.34 | 9.66 | 3.41 | 3.88 | -2.76 | - | - | - | - | 12 | - | 84.0 | - | open |
+| PARASHLTH | MAIN | 2026-10-23 | 2026-10-22 13:07 | -2 | SKIP | 3.61 | 0.0 | 0.14 | 0.24 | -2.76 | - | - | - | - | 21 | - | 90.1 | - | open |
