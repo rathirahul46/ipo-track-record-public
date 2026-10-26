@@ -1,6 +1,6 @@
 # IPO listing-gain screen: track record
 
-_Updated automatically after every screener run; last update 2026-10-26 13:07 IST. A listing-gain screen, not investment advice._
+_Updated automatically after every screener run; last update 2026-10-26 18:15 IST. A listing-gain screen, not investment advice._
 
 ## Ledger (every screened issue)
 
@@ -61,4 +61,4 @@ _Updated automatically after every screener run; last update 2026-10-26 13:07 IS
 | ZETWERK | MAIN | 2026-10-19 | 2026-10-19 13:05 | -1 | SKIP | 3.31 | 1.32 | 0.57 | 0.95 | -1.68 | 2026-10-23 | 151.0 | +5.5% | -8.4% | 99 | +Rs 817 | 100.0 | +Rs 817 | RIGHT |
 | JPL | MAIN | 2026-10-23 | 2026-10-23 13:06 | 3 | WATCH | 22.79 | 16.45 | 10.61 | 7.73 | -4.42 | - | - | - | - | 12 | - | 36.8 | - | not listed |
 | PARASHLTH | MAIN | 2026-10-23 | 2026-10-23 13:06 | -2 | SKIP | 1.44 | 0.38 | 0.4 | 0.62 | -4.42 | - | - | - | - | 21 | - | 50.0 | - | not listed |
-| EDELALTS | MAIN | 2026-10-28 | 2026-10-26 13:05 | -2 | SKIP | 3.0 | 0.08 | 0.09 | 0.05 | -2.33 | - | - | - | - | 9 | - | 100.0 | - | open |
+| EDELALTS | MAIN | 2026-10-28 | 2026-10-26 18:14 | -2 | SKIP | 3.0 | 0.08 | 0.32 | 0.11 | -1.67 | - | - | - | - | 9 | - | 100.0 | - | open |
