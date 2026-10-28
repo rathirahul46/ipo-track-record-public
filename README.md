@@ -1,6 +1,6 @@
 # IPO listing-gain screen: track record
 
-_Updated automatically after every screener run; last update 2026-10-27 17:53 IST. A listing-gain screen, not investment advice._
+_Updated automatically after every screener run; last update 2026-10-28 13:06 IST. A listing-gain screen, not investment advice._
 
 ## Ledger (every screened issue)
 
@@ -61,6 +61,7 @@ _Updated automatically after every screener run; last update 2026-10-27 17:53 IS
 | ZETWERK | MAIN | 2026-10-19 | 2026-10-19 13:05 | -1 | SKIP | 3.31 | 1.32 | 0.57 | 0.95 | -1.68 | 2026-10-23 | 151.0 | +5.5% | -8.4% | 99 | +Rs 817 | 100.0 | +Rs 817 | RIGHT |
 | JPL | MAIN | 2026-10-23 | 2026-10-23 13:06 | 3 | WATCH | 22.79 | 16.45 | 10.61 | 7.73 | -4.42 | - | - | - | - | 12 | - | 36.8 | - | not listed |
 | PARASHLTH | MAIN | 2026-10-23 | 2026-10-23 13:06 | -2 | SKIP | 1.44 | 0.38 | 0.4 | 0.62 | -4.42 | - | - | - | - | 21 | - | 50.0 | - | not listed |
-| EDELALTS | MAIN | 2026-10-28 | 2026-10-27 17:52 | -2 | SKIP | 1.2 | 0.45 | 0.69 | 0.33 | -1.69 | - | - | - | - | 9 | - | 100.0 | - | open |
-| BLSPOLY | MAIN | 2026-10-29 | 2026-10-27 17:52 | 3 | WATCH | 26.67 | 12.03 | 12.99 | 9.6 | -1.69 | - | - | - | - | 100 | - | 14.8 | - | open |
-| SFCTECH | MAIN | 2026-10-29 | 2026-10-27 17:52 | -1 | SKIP | 6.67 | 0.0 | 0.09 | 0.1 | -1.69 | - | - | - | - | 45 | - | 100.0 | - | open |
+| EDELALTS | MAIN | 2026-10-28 | 2026-10-28 13:05 | 0 | SKIP | 0.72 | 3.84 | 1.56 | 1.52 | -0.19 | - | - | - | - | 9 | - | 100.0 | - | not listed |
+| BLSPOLY | MAIN | 2026-10-29 | 2026-10-28 13:05 | 5 | CANDIDATE | 29.33 | 12.08 | 41.5 | 21.73 | -0.19 | - | - | - | - | 100 | - | 5.3 | - | open |
+| SFCTECH | MAIN | 2026-10-29 | 2026-10-28 13:05 | -1 | SKIP | 5.45 | 0.0 | 0.2 | 0.18 | -0.19 | - | - | - | - | 45 | - | 100.0 | - | open |
+| MKSONS | MAIN | 2026-10-30 | 2026-10-28 13:05 | -1 | SKIP | 6.17 | 0.27 | 0.64 | 0.28 | -0.19 | - | - | - | - | 91 | - | 100.0 | - | open |

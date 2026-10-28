@@ -54,6 +54,7 @@ TONBO,Tonbo Imaging India Limited,MAIN,2026-10-19,2026-10-19 13:05,True,6,CANDID
 ZETWERK,Zetwerk Manufacturing Businesses Limited,MAIN,2026-10-19,2026-10-19 13:05,True,-1,SKIP,3.31,1.32,0.57,0.95,-1.68,3.06,0.73,99,2026-10-23,151.0,159.25,138.25,5.46,-8.44,817.0,-1262.0,100.0,817.0,PASS,RIGHT
 JPL,Jio Platforms Limited,MAIN,2026-10-23,2026-10-23 13:06,True,3,WATCH,22.79,16.45,10.61,7.73,-4.42,22.19,2.72,12,,,,,,,,,36.8,,PASS,not listed
 PARASHLTH,Paras Healthcare Limited,MAIN,2026-10-23,2026-10-23 13:06,True,-2,SKIP,1.44,0.38,0.4,0.62,-4.42,2.23,2.0,21,,,,,,,,,50.0,,PASS,not listed
-EDELALTS,EAAA India Alternatives Limited,MAIN,2026-10-28,2026-10-27 17:52,False,-2,SKIP,1.2,0.45,0.69,0.33,-1.69,0.33,0.11,9,,,,,,,,,100.0,,PASS,open
-BLSPOLY,BLS Polymers Limited,MAIN,2026-10-29,2026-10-27 17:52,False,3,WATCH,26.67,12.03,12.99,9.6,-1.69,9.6,6.76,100,,,,,,,,,14.8,,PASS,open
-SFCTECH,SFC Environmental Technologies Limited,MAIN,2026-10-29,2026-10-27 17:52,False,-1,SKIP,6.67,0.0,0.09,0.1,-1.69,0.1,0.16,45,,,,,,,,,100.0,,PASS,open
+EDELALTS,EAAA India Alternatives Limited,MAIN,2026-10-28,2026-10-28 13:05,True,0,SKIP,0.72,3.84,1.56,1.52,-0.19,1.52,0.18,9,,,,,,,,,100.0,,PASS,not listed
+BLSPOLY,BLS Polymers Limited,MAIN,2026-10-29,2026-10-28 13:05,False,5,CANDIDATE,29.33,12.08,41.5,21.73,-0.19,21.73,18.77,100,,,,,,,,,5.3,,APPLY,open
+SFCTECH,SFC Environmental Technologies Limited,MAIN,2026-10-29,2026-10-28 13:05,False,-1,SKIP,5.45,0.0,0.2,0.18,-0.19,0.18,0.26,45,,,,,,,,,100.0,,PASS,open
+MKSONS,M. K. Sons Fine Jewels Limited,MAIN,2026-10-30,2026-10-28 13:05,False,-1,SKIP,6.17,0.27,0.64,0.28,-0.19,0.28,0.13,91,,,,,,,,,100.0,,PASS,open
