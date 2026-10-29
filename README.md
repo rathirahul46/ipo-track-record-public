@@ -1,6 +1,6 @@
 # IPO listing-gain screen: track record
 
-_Updated automatically after every screener run; last update 2026-10-29 13:08 IST. A listing-gain screen, not investment advice._
+_Updated automatically after every screener run; last update 2026-10-29 17:51 IST. A listing-gain screen, not investment advice._
 
 ## Ledger (every screened issue)
 
@@ -62,7 +62,7 @@ _Updated automatically after every screener run; last update 2026-10-29 13:08 IS
 | JPL | MAIN | 2026-10-23 | 2026-10-23 13:06 | 3 | WATCH | 22.79 | 16.45 | 10.61 | 7.73 | -4.42 | 2026-10-28 | 1119.0 | +21.4% | +26.7% | 12 | +Rs 2,868 | 36.8 | +Rs 1,055 | MISSED |
 | PARASHLTH | MAIN | 2026-10-23 | 2026-10-23 13:06 | -2 | SKIP | 1.44 | 0.38 | 0.4 | 0.62 | -4.42 | 2026-10-28 | 693.0 | +3.9% | +6.2% | 21 | +Rs 567 | 50.0 | +Rs 284 | RIGHT |
 | EDELALTS | MAIN | 2026-10-28 | 2026-10-28 13:05 | 0 | SKIP | 0.72 | 3.84 | 1.56 | 1.52 | -0.19 | - | - | - | - | 9 | - | 97.1 | - | not listed |
-| BLSPOLY | MAIN | 2026-10-29 | 2026-10-29 13:07 | 7 | CANDIDATE | 34.0 | 17.06 | 313.17 | 110.35 | 0.56 | - | - | - | - | 100 | - | 1.3 | - | not listed |
-| SFCTECH | MAIN | 2026-10-29 | 2026-10-29 13:07 | 0 | SKIP | 3.64 | 0.85 | 1.42 | 0.83 | 0.56 | - | - | - | - | 45 | - | 100.0 | - | not listed |
-| MKSONS | MAIN | 2026-10-30 | 2026-10-29 13:07 | 0 | SKIP | 9.26 | 0.96 | 1.68 | 0.92 | 0.56 | - | - | - | - | 91 | - | 100.0 | - | open |
-| BCSSL | MAIN | 2026-11-02 | 2026-10-29 13:07 | 2 | WATCH | 10.98 | 6.55 | 0.31 | 2.27 | 0.56 | - | - | - | - | 182 | - | 100.0 | - | open |
+| BLSPOLY | MAIN | 2026-10-29 | 2026-10-29 13:07 | 7 | CANDIDATE | 34.0 | 17.06 | 313.17 | 110.35 | 0.56 | - | - | - | - | 100 | - | 0.8 | - | not listed |
+| SFCTECH | MAIN | 2026-10-29 | 2026-10-29 13:07 | 0 | SKIP | 3.64 | 0.85 | 1.42 | 0.83 | 0.56 | - | - | - | - | 45 | - | 36.9 | - | not listed |
+| MKSONS | MAIN | 2026-10-30 | 2026-10-29 17:49 | 0 | SKIP | 9.26 | 0.99 | 2.2 | 1.18 | 0.97 | - | - | - | - | 91 | - | 100.0 | - | open |
+| BCSSL | MAIN | 2026-11-02 | 2026-10-29 17:49 | 2 | WATCH | 10.98 | 6.55 | 0.72 | 2.67 | 0.97 | - | - | - | - | 182 | - | 80.6 | - | open |
