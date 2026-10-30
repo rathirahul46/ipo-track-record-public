@@ -1,6 +1,6 @@
 # IPO listing-gain screen: track record
 
-_Updated automatically after every screener run; last update 2026-10-30 13:07 IST. A listing-gain screen, not investment advice._
+_Updated automatically after every screener run; last update 2026-10-30 17:58 IST. A listing-gain screen, not investment advice._
 
 ## Ledger (every screened issue)
 
@@ -64,7 +64,7 @@ _Updated automatically after every screener run; last update 2026-10-30 13:07 IS
 | EDELALTS | MAIN | 2026-10-28 | 2026-10-28 13:05 | 0 | SKIP | 0.72 | 3.84 | 1.56 | 1.52 | -0.19 | - | - | - | - | 9 | - | 97.1 | - | not listed |
 | BLSPOLY | MAIN | 2026-10-29 | 2026-10-29 13:07 | 7 | CANDIDATE | 34.0 | 17.06 | 313.17 | 110.35 | 0.56 | - | - | - | - | 100 | - | 0.8 | - | not listed |
 | SFCTECH | MAIN | 2026-10-29 | 2026-10-29 13:07 | 0 | SKIP | 3.64 | 0.85 | 1.42 | 0.83 | 0.56 | - | - | - | - | 45 | - | 36.9 | - | not listed |
-| MKSONS | MAIN | 2026-10-30 | 2026-10-30 13:05 | 1 | SKIP | 7.41 | 1.04 | 6.69 | 2.69 | 2.09 | - | - | - | - | 91 | - | 52.4 | - | not listed |
-| BCSSL | MAIN | 2026-11-02 | 2026-10-30 13:05 | 3 | WATCH | 10.98 | 6.55 | 1.24 | 3.3 | 2.09 | - | - | - | - | 182 | - | 43.9 | - | open |
-| HGSINDIALT | SME | 2026-11-03 | 2026-10-30 13:05 | -1 | SKIP | 0.0 | - | - | 0.08 | 2.09 | - | - | - | - | 2400 | - | 100.0 | - | open |
-| MAXENGS | SME | 2026-11-03 | 2026-10-30 13:05 | 2 | WATCH | 44.3 | - | - | 1.98 | 2.09 | - | - | - | - | 1600 | - | 50.5 | - | open |
+| MKSONS | MAIN | 2026-10-30 | 2026-10-30 13:05 | 1 | SKIP | 7.41 | 1.04 | 6.69 | 2.69 | 2.09 | - | - | - | - | 91 | - | 32.5 | - | not listed |
+| BCSSL | MAIN | 2026-11-02 | 2026-10-30 17:57 | 3 | WATCH | 10.98 | 6.56 | 1.8 | 3.78 | 1.91 | - | - | - | - | 182 | - | 33.1 | - | open |
+| HGSINDIALT | SME | 2026-11-03 | 2026-10-30 17:57 | -1 | SKIP | 0.0 | - | - | 1.53 | 1.91 | - | - | - | - | 2400 | - | 65.4 | - | open |
+| MAXENGS | SME | 2026-11-03 | 2026-10-30 17:57 | 3 | WATCH | 44.3 | - | - | 4.17 | 1.91 | - | - | - | - | 1600 | - | 24.0 | - | open |
