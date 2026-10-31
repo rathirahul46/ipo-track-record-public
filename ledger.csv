@@ -58,6 +58,6 @@ EDELALTS,EAAA India Alternatives Limited,MAIN,2026-10-28,2026-10-28 13:05,True,0
 BLSPOLY,BLS Polymers Limited,MAIN,2026-10-29,2026-10-29 13:07,True,7,CANDIDATE,34.0,17.06,313.17,110.35,0.56,241.22,128.36,100,,,,,,,,,0.8,,APPLY,not listed
 SFCTECH,SFC Environmental Technologies Limited,MAIN,2026-10-29,2026-10-29 13:07,True,0,SKIP,3.64,0.85,1.42,0.83,0.56,9.47,2.71,45,,,,,,,,,36.9,,PASS,not listed
 MKSONS,M. K. Sons Fine Jewels Limited,MAIN,2026-10-30,2026-10-30 13:05,True,1,SKIP,7.41,1.04,6.69,2.69,2.09,5.09,3.08,91,,,,,,,,,32.5,,PASS,not listed
-BCSSL,Bombay Coated and Special Steels Limited,MAIN,2026-11-02,2026-10-31 13:05,False,3,WATCH,8.54,6.56,1.8,3.78,1.91,3.78,3.02,182,,,,,,,,,33.1,,PASS,open
-HGSINDIALT,HGS (India) Limited,SME,2026-11-03,2026-10-31 13:05,False,1,SKIP,25.0,,,1.53,1.91,1.53,,2400,,,,,,,,,65.4,,PASS,open
-MAXENGS,Maxwell Engineering Solutions Limited,SME,2026-11-03,2026-10-31 13:05,False,3,WATCH,44.3,,,4.17,1.91,4.17,,1600,,,,,,,,,24.0,,PASS,open
+BCSSL,Bombay Coated and Special Steels Limited,MAIN,2026-11-02,2026-10-31 17:47,False,3,WATCH,8.54,6.56,1.8,3.78,1.91,3.78,3.02,182,,,,,,,,,33.1,,PASS,open
+HGSINDIALT,HGS (India) Limited,SME,2026-11-03,2026-10-31 17:47,False,1,SKIP,25.0,,,1.53,1.91,1.53,,2400,,,,,,,,,65.4,,PASS,open
+MAXENGS,Maxwell Engineering Solutions Limited,SME,2026-11-03,2026-10-31 17:47,False,3,WATCH,44.3,,,4.17,1.91,4.17,,1600,,,,,,,,,24.0,,PASS,open
