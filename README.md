@@ -1,6 +1,6 @@
 # IPO listing-gain screen: track record
 
-_Updated automatically after every screener run; last update 2026-11-02 13:07 IST. A listing-gain screen, not investment advice._
+_Updated automatically after every screener run; last update 2026-11-02 17:57 IST. A listing-gain screen, not investment advice._
 
 ## Ledger (every screened issue)
 
@@ -61,11 +61,11 @@ _Updated automatically after every screener run; last update 2026-11-02 13:07 IS
 | ZETWERK | MAIN | 2026-10-19 | 2026-10-19 13:05 | -1 | SKIP | 3.31 | 1.32 | 0.57 | 0.95 | -1.68 | 2026-10-23 | 151.0 | +5.5% | -8.4% | 99 | +Rs 817 | 100.0 | +Rs 817 | RIGHT |
 | JPL | MAIN | 2026-10-23 | 2026-10-23 13:06 | 3 | WATCH | 22.79 | 16.45 | 10.61 | 7.73 | -4.42 | 2026-10-28 | 1119.0 | +21.4% | +26.7% | 12 | +Rs 2,868 | 36.8 | +Rs 1,055 | MISSED |
 | PARASHLTH | MAIN | 2026-10-23 | 2026-10-23 13:06 | -2 | SKIP | 1.44 | 0.38 | 0.4 | 0.62 | -4.42 | 2026-10-28 | 693.0 | +3.9% | +6.2% | 21 | +Rs 567 | 50.0 | +Rs 284 | RIGHT |
-| EDELALTS | MAIN | 2026-10-28 | 2026-10-28 13:05 | 0 | SKIP | 0.72 | 3.84 | 1.56 | 1.52 | -0.19 | - | - | - | - | 9 | - | 97.1 | - | not listed |
+| EDELALTS | MAIN | 2026-10-28 | 2026-10-28 13:05 | 0 | SKIP | 0.72 | 3.84 | 1.56 | 1.52 | -0.19 | 2026-11-02 | 1665.0 | +0.6% | +3.8% | 9 | +Rs 94 | 97.1 | +Rs 91 | RIGHT |
 | BLSPOLY | MAIN | 2026-10-29 | 2026-10-29 13:07 | 7 | CANDIDATE | 34.0 | 17.06 | 313.17 | 110.35 | 0.56 | - | - | - | - | 100 | - | 0.8 | - | not listed |
 | SFCTECH | MAIN | 2026-10-29 | 2026-10-29 13:07 | 0 | SKIP | 3.64 | 0.85 | 1.42 | 0.83 | 0.56 | - | - | - | - | 45 | - | 36.9 | - | not listed |
 | MKSONS | MAIN | 2026-10-30 | 2026-10-30 13:05 | 1 | SKIP | 7.41 | 1.04 | 6.69 | 2.69 | 2.09 | - | - | - | - | 91 | - | 32.5 | - | not listed |
-| BCSSL | MAIN | 2026-11-02 | 2026-11-02 13:06 | 4 | CANDIDATE | 10.98 | 9.88 | 42.11 | 18.84 | 3.73 | - | - | - | - | 182 | - | 7.1 | - | not listed |
-| HGSINDIALT | SME | 2026-11-03 | 2026-11-02 13:06 | 2 | WATCH | 25.0 | - | - | 9.45 | 3.73 | - | - | - | - | 2400 | - | 10.6 | - | open |
-| MAXENGS | SME | 2026-11-03 | 2026-11-02 13:06 | 4 | CANDIDATE | 44.3 | - | - | 37.11 | 3.73 | - | - | - | - | 1600 | - | 2.7 | - | open |
-| VPFL | SME | 2026-11-04 | 2026-11-02 13:06 | 1 | SKIP | 15.96 | - | - | 0.29 | 3.73 | - | - | - | - | 2400 | - | 100.0 | - | open |
+| BCSSL | MAIN | 2026-11-02 | 2026-11-02 13:06 | 4 | CANDIDATE | 10.98 | 9.88 | 42.11 | 18.84 | 3.73 | - | - | - | - | 182 | - | 3.0 | - | not listed |
+| HGSINDIALT | SME | 2026-11-03 | 2026-11-02 17:56 | 3 | WATCH | 25.0 | - | - | 19.43 | 4.54 | - | - | - | - | 2400 | - | 5.1 | - | open |
+| MAXENGS | SME | 2026-11-03 | 2026-11-02 17:56 | 5 | CANDIDATE | 44.3 | - | - | 72.97 | 4.54 | - | - | - | - | 1600 | - | 1.4 | - | open |
+| VPFL | SME | 2026-11-04 | 2026-11-02 17:56 | 1 | SKIP | 15.96 | - | - | 0.39 | 4.54 | - | - | - | - | 2400 | - | 100.0 | - | open |
