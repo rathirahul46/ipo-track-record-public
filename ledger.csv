@@ -59,6 +59,6 @@ BLSPOLY,BLS Polymers Limited,MAIN,2026-10-29,2026-10-29 13:07,True,7,CANDIDATE,3
 SFCTECH,SFC Environmental Technologies Limited,MAIN,2026-10-29,2026-10-29 13:07,True,0,SKIP,3.64,0.85,1.42,0.83,0.56,9.47,2.71,45,,,,,,,,,36.9,,PASS,not listed
 MKSONS,M. K. Sons Fine Jewels Limited,MAIN,2026-10-30,2026-10-30 13:05,True,1,SKIP,7.41,1.04,6.69,2.69,2.09,5.09,3.08,91,,,,,,,,,32.5,,PASS,not listed
 BCSSL,Bombay Coated and Special Steels Limited,MAIN,2026-11-02,2026-11-02 13:06,True,4,CANDIDATE,10.98,9.88,42.11,18.84,3.73,60.77,33.73,182,,,,,,,,,3.0,,APPLY,not listed
-HGSINDIALT,HGS (India) Limited,SME,2026-11-03,2026-11-02 17:56,False,3,WATCH,25.0,,,19.43,4.54,19.43,,2400,,,,,,,,,5.1,,PASS,open
-MAXENGS,Maxwell Engineering Solutions Limited,SME,2026-11-03,2026-11-02 17:56,False,5,CANDIDATE,44.3,,,72.97,4.54,72.97,,1600,,,,,,,,,1.4,,APPLY,open
-VPFL,Vedant Poly Fabs Limited,SME,2026-11-04,2026-11-02 17:56,False,1,SKIP,15.96,,,0.39,4.54,0.39,,2400,,,,,,,,,100.0,,PASS,open
+HGSINDIALT,HGS (India) Limited,SME,2026-11-03,2026-11-03 13:07,True,5,CANDIDATE,25.0,,,97.43,5.64,97.43,,2400,,,,,,,,,1.0,,APPLY,not listed
+MAXENGS,Maxwell Engineering Solutions Limited,SME,2026-11-03,2026-11-03 13:07,True,6,CANDIDATE,50.63,,,241.74,5.64,241.74,,1600,,,,,,,,,0.4,,APPLY,not listed
+VPFL,Vedant Poly Fabs Limited,SME,2026-11-04,2026-11-03 13:07,False,1,SKIP,15.96,,,0.62,5.64,0.62,,2400,,,,,,,,,100.0,,PASS,open

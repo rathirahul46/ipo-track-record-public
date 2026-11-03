@@ -1,6 +1,6 @@
 # IPO listing-gain screen: track record
 
-_Updated automatically after every screener run; last update 2026-11-02 17:57 IST. A listing-gain screen, not investment advice._
+_Updated automatically after every screener run; last update 2026-11-03 13:08 IST. A listing-gain screen, not investment advice._
 
 ## Ledger (every screened issue)
 
@@ -66,6 +66,6 @@ _Updated automatically after every screener run; last update 2026-11-02 17:57 IS
 | SFCTECH | MAIN | 2026-10-29 | 2026-10-29 13:07 | 0 | SKIP | 3.64 | 0.85 | 1.42 | 0.83 | 0.56 | - | - | - | - | 45 | - | 36.9 | - | not listed |
 | MKSONS | MAIN | 2026-10-30 | 2026-10-30 13:05 | 1 | SKIP | 7.41 | 1.04 | 6.69 | 2.69 | 2.09 | - | - | - | - | 91 | - | 32.5 | - | not listed |
 | BCSSL | MAIN | 2026-11-02 | 2026-11-02 13:06 | 4 | CANDIDATE | 10.98 | 9.88 | 42.11 | 18.84 | 3.73 | - | - | - | - | 182 | - | 3.0 | - | not listed |
-| HGSINDIALT | SME | 2026-11-03 | 2026-11-02 17:56 | 3 | WATCH | 25.0 | - | - | 19.43 | 4.54 | - | - | - | - | 2400 | - | 5.1 | - | open |
-| MAXENGS | SME | 2026-11-03 | 2026-11-02 17:56 | 5 | CANDIDATE | 44.3 | - | - | 72.97 | 4.54 | - | - | - | - | 1600 | - | 1.4 | - | open |
-| VPFL | SME | 2026-11-04 | 2026-11-02 17:56 | 1 | SKIP | 15.96 | - | - | 0.39 | 4.54 | - | - | - | - | 2400 | - | 100.0 | - | open |
+| HGSINDIALT | SME | 2026-11-03 | 2026-11-03 13:07 | 5 | CANDIDATE | 25.0 | - | - | 97.43 | 5.64 | - | - | - | - | 2400 | - | 1.0 | - | not listed |
+| MAXENGS | SME | 2026-11-03 | 2026-11-03 13:07 | 6 | CANDIDATE | 50.63 | - | - | 241.74 | 5.64 | - | - | - | - | 1600 | - | 0.4 | - | not listed |
+| VPFL | SME | 2026-11-04 | 2026-11-03 13:07 | 1 | SKIP | 15.96 | - | - | 0.62 | 5.64 | - | - | - | - | 2400 | - | 100.0 | - | open |
