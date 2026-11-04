@@ -1,6 +1,6 @@
 # IPO listing-gain screen: track record
 
-_Updated automatically after every screener run; last update 2026-11-03 17:49 IST. A listing-gain screen, not investment advice._
+_Updated automatically after every screener run; last update 2026-11-04 13:06 IST. A listing-gain screen, not investment advice._
 
 ## Ledger (every screened issue)
 
@@ -68,4 +68,4 @@ _Updated automatically after every screener run; last update 2026-11-03 17:49 IS
 | BCSSL | MAIN | 2026-11-02 | 2026-11-02 13:06 | 4 | CANDIDATE | 10.98 | 9.88 | 42.11 | 18.84 | 3.73 | - | - | - | - | 182 | - | 3.0 | - | not listed |
 | HGSINDIALT | SME | 2026-11-03 | 2026-11-03 13:07 | 5 | CANDIDATE | 25.0 | - | - | 97.43 | 5.64 | - | - | - | - | 2400 | - | 0.4 | - | not listed |
 | MAXENGS | SME | 2026-11-03 | 2026-11-03 13:07 | 6 | CANDIDATE | 50.63 | - | - | 241.74 | 5.64 | - | - | - | - | 1600 | - | 0.2 | - | not listed |
-| VPFL | SME | 2026-11-04 | 2026-11-03 17:47 | 1 | SKIP | 15.96 | - | - | 0.87 | 6.19 | - | - | - | - | 2400 | - | 100.0 | - | open |
+| VPFL | SME | 2026-11-04 | 2026-11-04 13:05 | 0 | SKIP | 11.7 | - | - | 1.51 | 6.26 | - | - | - | - | 2400 | - | 66.2 | - | not listed |
